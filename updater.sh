@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -e "Hello $USER"
 echo -e "\e[35mTime for updates!\e[0m"
 echo "I will be running update, upgrade, clean, autoclean and autoremove in..."
 # Im sorry Dave, Im afraid I cant do that
